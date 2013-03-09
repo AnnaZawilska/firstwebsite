@@ -1,0 +1,135 @@
+.page_header{
+	text-shadow: 2px 2px 2px black;
+	font-family:Helvetica;
+	font-size:30px;
+	color:white;
+	margin-bottom:0px;
+}
+
+#link_info{
+	position:relative;
+	opacity:0;
+	margin-top:150px;
+	text-shadow: 2px 2px 2px black;
+	font-family:Helvetica;
+	font-size:70px;
+	color:white;
+	left:40%;
+}
+
+a{
+	text-decoration:none;
+}
+
+.page_subheader{
+	text-shadow: 2px 2px 2px black;
+	float:left;
+	font-family:Helvetica;
+	font-size:16px;
+	color:white;
+	margin-top:0px;
+}
+
+.block_names{
+	font-family:Helvetica;
+	text-align:right;
+	margin-top:180px;
+}
+
+.left{
+	position:relative;
+	float:left;
+	width:20%;
+}
+
+.right{
+	position:relative;
+	float:right;
+	width:65%;
+	margin-right:10%;
+	background-color:white;
+	border-radius:5px;
+}
+
+table{
+	width: 500px;
+	position:relative;
+	left:30%;
+	margin-left:-350px;
+	margin-top:100px;
+}
+
+
+td{
+	height:300px;
+	width:750px;
+}
+
+div {
+    	height:250px;
+    	width:300px;
+    	display: inline-block;
+}
+
+.blue {
+    	background-color:#003366;
+	border-radius:5px;
+}
+
+#bottom_bar{
+	position:fixed;
+	left:0px;
+	bottom:-1px;
+	height:50px;
+	width:100%;
+	background:#000033;
+}
+
+.main_img{
+	
+	height:230px;
+	width:280px;
+	display:inline-block;
+	margin: 10px 10px 10px 10px;
+	opacity:0.5;
+}
+
+#twitter{
+	float:right;
+	height:25px;
+	width:25px;
+	margin-top:10px;
+	margin-right:20px;
+}
+
+#email{
+	float:right;
+	height:25px;
+	width:25px;
+	margin-top:10px;
+	margin-right:5px;
+}
+
+#contact_me{
+	margin-left:20px;
+	font-color:black;
+	float:left;
+	font-family:Helvetica;
+	font-size:12;
+}
+
+
+body{
+	height:100%;
+	background-image: url('http://static.tumblr.com/fftf9xi/K0Hl5z390/bg_wood.jpg');
+	repeat: no-repeat;
+}
+
+#profile_photo{
+	position:relative;
+	margin-top:10px;
+	width:85%;
+	height:auto;
+	border: 10px solid #003366;
+	border-radius:5px;
+}
